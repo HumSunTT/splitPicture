@@ -1,6 +1,8 @@
 # SplitPicture
 
 Python 图片分割工具
+<img width="1398" height="895" alt="image" src="https://github.com/user-attachments/assets/cccedc7c-8a1f-4ea0-88e4-b5fe54a56a86" />
+
 
 ## 功能
 
